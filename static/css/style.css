@@ -1,0 +1,65 @@
+
+body {
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+}
+
+
+.content-1{
+    background-color: rgb(226, 226, 226);
+    border-radius: 10px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.content {
+    background-color: rgb(226, 226, 226);
+    border-radius: 40px;
+    max-width: 600px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    display: block;
+
+}
+
+form {
+    display: block;
+}
+
+#nav {
+    margin-left: 10px;
+    margin-right: 30px;
+}
+
+label {
+    color: rgba(0, 0, 0, 0.849);
+    font-size: large;
+}
+
+.helptext {
+    color: rgba(0, 0, 0, 0.548);
+}
+
+input {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 10px;
+    display: block;
+  }
+
+textarea {
+    width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+  }
+
+button {
+    margin-bottom: 20px;
+}
